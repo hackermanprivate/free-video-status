@@ -1,0 +1,77 @@
+{
+ "checked": "2026-11-13 21:02 UTC",
+ "rows": [
+  {
+   "service": "[Wan-AI/Wan2.2-T2V-A14B](https://huggingface.co/spaces/Wan-AI/Wan2.2-T2V-A14B)",
+   "kind": "ZeroGPU space",
+   "state": "down",
+   "detail": "space not found / renamed"
+  },
+  {
+   "service": "[Upsampler/wan-2-2-14b-text-to-video](https://huggingface.co/spaces/Upsampler/wan-2-2-14b-text-to-video)",
+   "kind": "ZeroGPU space",
+   "state": "up",
+   "detail": "RUNNING on zero-a10g"
+  },
+  {
+   "service": "[Upsampler/wan-2-2-14b-image-to-video](https://huggingface.co/spaces/Upsampler/wan-2-2-14b-image-to-video)",
+   "kind": "ZeroGPU space",
+   "state": "up",
+   "detail": "RUNNING on zero-a10g"
+  },
+  {
+   "service": "[THUDM/CogVideoX-5b](https://huggingface.co/spaces/THUDM/CogVideoX-5b)",
+   "kind": "ZeroGPU space",
+   "state": "up",
+   "detail": "RUNNING on zero-a10g"
+  },
+  {
+   "service": "[multimodalart/wan2-1-fast](https://huggingface.co/spaces/multimodalart/wan2-1-fast)",
+   "kind": "ZeroGPU space",
+   "state": "up",
+   "detail": "RUNNING on zero-a10g"
+  },
+  {
+   "service": "Pollinations image",
+   "kind": "HTTP endpoint",
+   "state": "up",
+   "detail": "free, no key \u00b7 2.4s"
+  },
+  {
+   "service": "Pollinations text",
+   "kind": "HTTP endpoint",
+   "state": "up",
+   "detail": "free, no key \u00b7 0.0s"
+  },
+  {
+   "service": "Hugging Face API",
+   "kind": "HTTP endpoint",
+   "state": "up",
+   "detail": "free, no key \u00b7 0.3s"
+  },
+  {
+   "service": "Gemini API",
+   "kind": "HTTP endpoint",
+   "state": "up",
+   "detail": "reachable, key needed (http 403) \u00b7 0.1s"
+  },
+  {
+   "service": "Replicate API",
+   "kind": "HTTP endpoint",
+   "state": "up",
+   "detail": "reachable, key needed (http 401) \u00b7 0.8s"
+  },
+  {
+   "service": "fal API",
+   "kind": "HTTP endpoint",
+   "state": "up",
+   "detail": "reachable, key needed (http 401) \u00b7 0.9s"
+  },
+  {
+   "service": "OpenAI API",
+   "kind": "HTTP endpoint",
+   "state": "up",
+   "detail": "reachable, key needed (http 401) \u00b7 0.2s"
+  }
+ ]
+}

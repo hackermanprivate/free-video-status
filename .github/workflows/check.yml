@@ -1,0 +1,34 @@
+name: check free endpoints
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # 08:47 IST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: probe endpoints
+        run: python3 check.py
+
+      - name: commit if changed
+        run: |
+          git config user.name "status-bot"
+          git config user.email "status-bot@users.noreply.github.com"
+          git add STATUS.md status.json
+          if git diff --quiet --cached; then
+            echo "no change"
+          else
+            git commit -m "chore: endpoint status $(date -u +%Y-%m-%d)"
+            git push
+          fi
