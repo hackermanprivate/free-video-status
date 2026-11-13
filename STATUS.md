@@ -10,13 +10,13 @@ if this file is old, the Action died, which is itself the answer.
 | [Upsampler/wan-2-2-14b-image-to-video](https://huggingface.co/spaces/Upsampler/wan-2-2-14b-image-to-video) | ZeroGPU space | 🟢 up | RUNNING on zero-a10g |
 | [THUDM/CogVideoX-5b](https://huggingface.co/spaces/THUDM/CogVideoX-5b) | ZeroGPU space | 🟢 up | RUNNING on zero-a10g |
 | [multimodalart/wan2-1-fast](https://huggingface.co/spaces/multimodalart/wan2-1-fast) | ZeroGPU space | 🟢 up | RUNNING on zero-a10g |
-| Pollinations image | HTTP endpoint | 🟢 up | free, no key · 2.4s |
-| Pollinations text | HTTP endpoint | 🟢 up | free, no key · 0.0s |
-| Hugging Face API | HTTP endpoint | 🟢 up | free, no key · 0.3s |
+| Pollinations image | HTTP endpoint | 🟢 up | free, no key · 0.5s |
+| Pollinations text | HTTP endpoint | 🟢 up | free, no key · 0.1s |
+| Hugging Face API | HTTP endpoint | 🟢 up | free, no key · 0.2s |
 | Gemini API | HTTP endpoint | 🟢 up | reachable, key needed (http 403) · 0.1s |
-| Replicate API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.8s |
-| fal API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.9s |
-| OpenAI API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.2s |
+| Replicate API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.1s |
+| fal API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.3s |
+| OpenAI API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.1s |
 
 ## How to read this
 

@@ -35,19 +35,19 @@
    "service": "Pollinations image",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "free, no key \u00b7 2.4s"
+   "detail": "free, no key \u00b7 0.5s"
   },
   {
    "service": "Pollinations text",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "free, no key \u00b7 0.0s"
+   "detail": "free, no key \u00b7 0.1s"
   },
   {
    "service": "Hugging Face API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "free, no key \u00b7 0.3s"
+   "detail": "free, no key \u00b7 0.2s"
   },
   {
    "service": "Gemini API",
@@ -59,19 +59,19 @@
    "service": "Replicate API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "reachable, key needed (http 401) \u00b7 0.8s"
+   "detail": "reachable, key needed (http 401) \u00b7 0.1s"
   },
   {
    "service": "fal API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "reachable, key needed (http 401) \u00b7 0.9s"
+   "detail": "reachable, key needed (http 401) \u00b7 0.3s"
   },
   {
    "service": "OpenAI API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "reachable, key needed (http 401) \u00b7 0.2s"
+   "detail": "reachable, key needed (http 401) \u00b7 0.1s"
   }
  ]
 }
