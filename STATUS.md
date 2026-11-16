@@ -1,6 +1,6 @@
 # Free AI video: what is actually working today
 
-Last checked **2026-11-15 04:06 UTC**. 11/12 endpoints answering. Auto-committed by a daily GitHub Action -
+Last checked **2026-11-16 04:49 UTC**. 11/12 endpoints answering. Auto-committed by a daily GitHub Action -
 if this file is old, the Action died, which is itself the answer.
 
 | Service | Kind | Status | Detail |
@@ -10,11 +10,11 @@ if this file is old, the Action died, which is itself the answer.
 | [Upsampler/wan-2-2-14b-image-to-video](https://huggingface.co/spaces/Upsampler/wan-2-2-14b-image-to-video) | ZeroGPU space | 🟢 up | RUNNING on zero-a10g |
 | [THUDM/CogVideoX-5b](https://huggingface.co/spaces/THUDM/CogVideoX-5b) | ZeroGPU space | 🟢 up | RUNNING on zero-a10g |
 | [multimodalart/wan2-1-fast](https://huggingface.co/spaces/multimodalart/wan2-1-fast) | ZeroGPU space | 🟢 up | RUNNING on zero-a10g |
-| Pollinations image | HTTP endpoint | 🟢 up | free, no key · 0.2s |
-| Pollinations text | HTTP endpoint | 🟢 up | free, no key · 0.0s |
-| Hugging Face API | HTTP endpoint | 🟢 up | free, no key · 0.0s |
-| Gemini API | HTTP endpoint | 🟢 up | reachable, key needed (http 403) · 0.0s |
-| Replicate API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.0s |
+| Pollinations image | HTTP endpoint | 🟢 up | free, no key · 0.3s |
+| Pollinations text | HTTP endpoint | 🟢 up | free, no key · 0.2s |
+| Hugging Face API | HTTP endpoint | 🟢 up | free, no key · 0.1s |
+| Gemini API | HTTP endpoint | 🟢 up | reachable, key needed (http 403) · 0.1s |
+| Replicate API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.1s |
 | fal API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.1s |
 | OpenAI API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.1s |
 
