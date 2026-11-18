@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-17 04:07 UTC",
+ "checked": "2026-11-18 04:10 UTC",
  "rows": [
   {
    "service": "[Wan-AI/Wan2.2-T2V-A14B](https://huggingface.co/spaces/Wan-AI/Wan2.2-T2V-A14B)",
@@ -35,31 +35,31 @@
    "service": "Pollinations image",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "free, no key \u00b7 0.2s"
+   "detail": "free, no key \u00b7 0.5s"
   },
   {
    "service": "Pollinations text",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "free, no key \u00b7 0.0s"
+   "detail": "free, no key \u00b7 0.1s"
   },
   {
    "service": "Hugging Face API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "free, no key \u00b7 0.0s"
+   "detail": "free, no key \u00b7 0.1s"
   },
   {
    "service": "Gemini API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "reachable, key needed (http 403) \u00b7 0.0s"
+   "detail": "reachable, key needed (http 403) \u00b7 0.1s"
   },
   {
    "service": "Replicate API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "reachable, key needed (http 401) \u00b7 0.1s"
+   "detail": "reachable, key needed (http 401) \u00b7 0.0s"
   },
   {
    "service": "fal API",
