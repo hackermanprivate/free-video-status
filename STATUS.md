@@ -1,6 +1,6 @@
 # Free AI video: what is actually working today
 
-Last checked **2026-11-24 04:15 UTC**. 11/12 endpoints answering. Auto-committed by a daily GitHub Action -
+Last checked **2026-11-25 04:24 UTC**. 11/12 endpoints answering. Auto-committed by a daily GitHub Action -
 if this file is old, the Action died, which is itself the answer.
 
 | Service | Kind | Status | Detail |
@@ -13,9 +13,9 @@ if this file is old, the Action died, which is itself the answer.
 | Pollinations image | HTTP endpoint | 🟢 up | free, no key · 0.5s |
 | Pollinations text | HTTP endpoint | 🟢 up | free, no key · 0.1s |
 | Hugging Face API | HTTP endpoint | 🟢 up | free, no key · 0.1s |
-| Gemini API | HTTP endpoint | 🟢 up | reachable, key needed (http 403) · 0.0s |
-| Replicate API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.2s |
-| fal API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.2s |
+| Gemini API | HTTP endpoint | 🟢 up | reachable, key needed (http 403) · 0.1s |
+| Replicate API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.1s |
+| fal API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.3s |
 | OpenAI API | HTTP endpoint | 🟢 up | reachable, key needed (http 401) · 0.1s |
 
 ## How to read this

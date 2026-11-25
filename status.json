@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-24 04:15 UTC",
+ "checked": "2026-11-25 04:24 UTC",
  "rows": [
   {
    "service": "[Wan-AI/Wan2.2-T2V-A14B](https://huggingface.co/spaces/Wan-AI/Wan2.2-T2V-A14B)",
@@ -53,19 +53,19 @@
    "service": "Gemini API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "reachable, key needed (http 403) \u00b7 0.0s"
+   "detail": "reachable, key needed (http 403) \u00b7 0.1s"
   },
   {
    "service": "Replicate API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "reachable, key needed (http 401) \u00b7 0.2s"
+   "detail": "reachable, key needed (http 401) \u00b7 0.1s"
   },
   {
    "service": "fal API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "reachable, key needed (http 401) \u00b7 0.2s"
+   "detail": "reachable, key needed (http 401) \u00b7 0.3s"
   },
   {
    "service": "OpenAI API",
