@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-25 04:24 UTC",
+ "checked": "2026-11-26 04:19 UTC",
  "rows": [
   {
    "service": "[Wan-AI/Wan2.2-T2V-A14B](https://huggingface.co/spaces/Wan-AI/Wan2.2-T2V-A14B)",
@@ -35,7 +35,7 @@
    "service": "Pollinations image",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "free, no key \u00b7 0.5s"
+   "detail": "free, no key \u00b7 0.3s"
   },
   {
    "service": "Pollinations text",
@@ -47,7 +47,7 @@
    "service": "Hugging Face API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "free, no key \u00b7 0.1s"
+   "detail": "free, no key \u00b7 0.0s"
   },
   {
    "service": "Gemini API",
@@ -65,7 +65,7 @@
    "service": "fal API",
    "kind": "HTTP endpoint",
    "state": "up",
-   "detail": "reachable, key needed (http 401) \u00b7 0.3s"
+   "detail": "reachable, key needed (http 401) \u00b7 0.2s"
   },
   {
    "service": "OpenAI API",
